@@ -58,9 +58,5 @@ Aplikasi akan berjalan di `http://localhost:5000`.
 ## Testing
 Untuk menjalankan unit testing:
 pytest
-## 10. Kesimpulan
-Proyek backend ini telah diimplementasikan dengan struktur modular, sudah menggunakan best practices untuk pengelolaan database, autentikasi, error handling, serta sudah dilengkapi dengan Docker untuk deployment.
 
 ---
-
-Jika ada pertanyaan atau perlu penyesuaian, beri tahu saya!
