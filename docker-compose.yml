@@ -21,5 +21,5 @@ services:
     environment:
       DATABASE_URL: "postgresql://rizqikevin:user123@localhost:5432/hospital_db"
       JWT_SECRET_KEY: "supersecretkey"
-      GOOGLE_APPLICATION_CREDENTIALS: "/delman-viewer-367ebe359fdf.json"
+      GOOGLE_APPLICATION_CREDENTIALS: "/.json"
 
